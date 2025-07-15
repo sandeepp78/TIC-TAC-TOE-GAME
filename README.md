@@ -1,48 +1,58 @@
 # TIC-TAC-TOE-GAME
 Classic Tic Tac Toe game for two players, created with HTML, CSS, and JavaScript.
 
-A fun, interactive, and responsive Tic Tac Toe game for two players, built using HTML, CSS, and JavaScript. This classic game features smooth user interactions and works seamlessly across all devices.
+# 🎮 Tic Tac Toe Game
 
-🔗 Live Demo: sandy07ttt.ccbp.tech
+A fun, interactive, and responsive **Tic Tac Toe** game for two players, built using **HTML, CSS, and JavaScript**. Enjoy the classic gameplay with a modern, clean UI that works smoothly across all devices.
 
-📌 Features
-✅ Two-player turn-based gameplay
+🔗 **Live Demo:** [Click here to play](https://sandy07ttt.ccbp.tech)
 
-🧠 Winner and draw detection logic
+---
 
-🔁 Game reset functionality
+## 📌 Features
 
-📱 Fully responsive and clean user interface
+- 🎮 Two-player turn-based gameplay  
+- 🧠 Winner and draw detection logic  
+- 🔄 Reset functionality for new games  
+- 📱 Responsive and clean design  
+- ⚡ Smooth and intuitive user interactions  
 
-🖱️ Smooth, intuitive interactions
+---
 
-🛠️ Technologies Used
-HTML – For markup and structure
+## 🛠️ Technologies Used
 
-CSS – For layout and visual styling
+- **HTML** – Markup and structure  
+- **CSS** – Styling and layout  
+- **JavaScript** – Game logic and DOM manipulation  
 
-JavaScript – For game logic and DOM manipulation
+---
 
-📚 What I Learned
-Structuring a simple game layout using semantic HTML and modern CSS
+## 📚 What I Learned
 
-Implementing game logic, state handling, and DOM updates with JavaScript
+- Structuring a game layout using HTML and CSS  
+- Handling user interactions and game logic using JavaScript  
+- Creating responsive designs for better user experience  
+- Managing state and conditions in a turn-based game  
 
-Improving user experience with responsive design and visual feedback
+---
 
-🚀 Getting Started
+## 🚀 Getting Started
+
 To run the project locally:
 
-Clone the repository:
+1. **Clone the repository**:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-⚠️ Replace your-username and your-repo-name with your actual GitHub username and repository name. Example:
-git clone https://github.com/sandeepp78/tic-tac-toe.git
+   ```bash
+   git clone https://github.com/sandeepp78/tic-tac-toe.git
+Open the project folder and launch the index.html file in your browser.
 
-Open the project folder and launch index.html in your browser manually, or use Live Server in VS Code.
+💡 You can also use Live Server in VS Code for easier testing and development.
 
-⭐ Feel free to star the repository if you found it useful!
+🙌 Support
+If you like the project, consider ⭐️ starring the repo and sharing it. Feedback and contributions are always welcome!
+
+📫 Contact
+GitHub: @sandeepp78
+
+Live Site: sandy07ttt.ccbp.tech
 
