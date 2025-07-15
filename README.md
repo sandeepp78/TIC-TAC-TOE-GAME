@@ -1,10 +1,9 @@
 # TIC-TAC-TOE-GAME
 Classic Tic Tac Toe game for two players, created with HTML, CSS, and JavaScript.
 
-🎮 Tic Tac Toe Game
 A fun, interactive, and responsive Tic Tac Toe game for two players, built using HTML, CSS, and JavaScript. This classic game features smooth user interactions and works seamlessly across all devices.
 
-🔗 Live Demo
+🔗 Live Demo: sandy07ttt.ccbp.tech
 
 📌 Features
 ✅ Two-player turn-based gameplay
@@ -40,13 +39,10 @@ bash
 Copy
 Edit
 git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder and open the index.html file in your browser:
+⚠️ Replace your-username and your-repo-name with your actual GitHub username and repository name. Example:
+git clone https://github.com/sandeepp78/tic-tac-toe.git
 
-bash
-Copy
-Edit
-cd your-repo-name
-Then open index.html manually in your browser or use Live Server if using VS Code.
+Open the project folder and launch index.html in your browser manually, or use Live Server in VS Code.
 
-Feel free to ⭐️ star the repo if you like it or want to contribute!
+⭐ Feel free to star the repository if you found it useful!
 
