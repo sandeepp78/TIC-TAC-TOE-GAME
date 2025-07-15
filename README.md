@@ -1,6 +1,3 @@
-# TIC-TAC-TOE-GAME
-Classic Tic Tac Toe game for two players, created with HTML, CSS, and JavaScript.
-
 # 🎮 Tic Tac Toe Game
 
 A fun, interactive, and responsive **Tic Tac Toe** game for two players, built using **HTML, CSS, and JavaScript**. Enjoy the classic gameplay with a modern, clean UI that works smoothly across all devices.
